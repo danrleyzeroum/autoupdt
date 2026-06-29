@@ -1,6 +1,6 @@
 {
-  "versionCode": 2010099,
-  "versionName": "2.1.0",
-  "url": "https://github.com/danrleyzeroum/autoupdt/releases/download/v2.1.0/app-release.apk",
-  "changelog": "• Melhoria na navegação por controle remoto\n• Correção de bug no player de vídeo\n• Otimização de carregamento de listas"
+  "versionCode": 2020099,
+  "versionName": "2.2.0",
+  "url": "https://github.com/danrleyzeroum/autoupdt/releases/download/v2.2.0/app-release.apk",
+  "changelog": "• Mudança do Layout do Aplicativo em Geral\n• Correção de bug no player de vídeo\n• Otimização de carregamento de listas de Filmes e Series"
 }
