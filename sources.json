@@ -1,22 +1,11 @@
 {
   "sources": [
-    "https://hydralinks.cloud/sources/fitgirl.json",
-    "https://hydralinks.cloud/sources/gog.json",
-    "https://hydralinks.cloud/sources/steamrip.json",
-    "https://hydralinks.cloud/sources/onlinefix.json",
-    "https://hydralinks.cloud/sources/dodi.json",
-    "https://hydralinks.cloud/sources/xatab.json",
     "https://wkeynhk.online/steamgg.json",
-    "https://hydralinks.cloud/sources/empress.json",
-    "https://hydralinks.cloud/sources/atop-games.json",
-    "https://hydralinks.cloud/sources/rexagames.json",
-    "https://hydralinks.cloud/sources/kaoskrew.json",
     "https://raw.githubusercontent.com/Altansar69/Hydra-Library/refs/heads/main/hydra-skidrowreloaded/skidrow_cleaned.json",
     "https://raw.githubusercontent.com/Merabet4mine/merabet4mine.github.io/refs/heads/master/assets/skidrow.json",
     "https://raw.githubusercontent.com/BITO21/BITO_sources/refs/heads/master/GameBounty.json",
     "https://vxvulgooficial.github.io/vxvulgooficial/vxvulgo.json",
     "https://wkeynhk.online/redump.json",
-    "https://hydralinks.cloud/sources/psx-roms.json",
     "https://gist.githubusercontent.com/SawwyReis/8ec9011acc87b101c355636a320f4172/raw/690950e58ed51ee9d1ad077467a26c810da77b40/SukiH.json"
     
   ]
