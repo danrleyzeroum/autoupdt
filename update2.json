@@ -1,6 +1,6 @@
 {
-  "versionCode": 1050099,
-  "versionName": "1.5.0",
-  "url": "https://github.com/danrleyzeroum/CineDrive/releases/download/1.5.0/app-release.apk",
+  "versionCode": 1060099,
+  "versionName": "1.6.0",
+  "url": "https://github.com/danrleyzeroum/CineDrive/releases/download/1.6.0/app-release.apk",
   "changelog": "• Correção na sincronização de episódios\n• Melhoria no player de vídeo\n• Suporte a múltiplos servidores com failover"
 }
