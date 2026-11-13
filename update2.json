@@ -1,6 +1,6 @@
 {
-  "versionCode": 2020099,
-  "versionName": "2.2.0",
-  "url": "https://github.com/danrleyzeroum/CineDrive/releases/download/2.2.0/app-release.apk",
-  "changelog": "• Correção no sistema de atualizaççoes\n• Melhoria no player de vídeo\n• Correção no sistema de Series e Episodios."
+  "versionCode": 2030099,
+  "versionName": "2.3.0",
+  "url": "https://github.com/danrleyzeroum/CineDrive/releases/download/2.3.0/app-release.apk",
+  "changelog": "• Grande Mudança no Player de Filmes e Series\n• Melhoria no Catalogo\n• Correção no sistema de carregamento de mídia."
 }
